@@ -1,2 +1,2 @@
-# LLMSFT_benchmark
-Various SFT acceleration framework scripts and benchmarks
+# LLMSFT_template
+Various SFT acceleration framework scripts and codes
